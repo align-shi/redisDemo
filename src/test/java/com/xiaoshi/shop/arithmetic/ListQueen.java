@@ -1,7 +1,4 @@
-package com.xiaoshi.shop;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.xiaoshi.shop.arithmetic;
 
 /**
  * @description: 测试循环链表

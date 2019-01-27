@@ -1,4 +1,4 @@
-package com.xiaoshi.shop;
+package com.xiaoshi.shop.arithmetic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

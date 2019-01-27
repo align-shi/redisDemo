@@ -1,4 +1,4 @@
-package com.xiaoshi.shop;
+package com.xiaoshi.shop.arithmetic;
 
 public class Node {
     public double value = 0;
